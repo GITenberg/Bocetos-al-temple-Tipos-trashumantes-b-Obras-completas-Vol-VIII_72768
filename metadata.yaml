@@ -1,5 +1,8 @@
 _repo: Bocetos-al-temple-Tipos-trashumantes-b-Obras-completas-Vol-VIII_72768
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72768-h/images/cover.jpg
 creator:
   author:
     agent_name: Pereda, José María de
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_de_Pereda
     - https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_de_Pereda
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72768#Bocetos-al-temple-Tipos-trashumantes-b-Obras-completas-Vol-VIII
 gutenberg_issued: '2024-01-20'
 gutenberg_type: Text
 identifiers:
